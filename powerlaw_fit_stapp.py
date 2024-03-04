@@ -6,8 +6,6 @@ import numpy as np
 import matplotlib.pyplot as plt
 import streamlit as st
 import plotly.graph_objects as go
-import mpld3
-import streamlit.components.v1 as components
 
 # Function to load the data
 @st.cache_data
