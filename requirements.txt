@@ -1,0 +1,7 @@
+powerlaw
+pandas
+numpy
+ipykernel
+matplotlib
+streamlit
+plotly
